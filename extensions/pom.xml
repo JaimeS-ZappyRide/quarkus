@@ -121,11 +121,16 @@
         <module>cache</module>
 
         <!-- Integrations -->
+        <module>azure-functions-http</module>
+
+               
+        <!--- AWS -->
         <module>amazon-lambda</module>
         <module>amazon-lambda-xray</module>
         <module>amazon-lambda-http</module>
+        <module>amazon-common-base</module>
         <module>amazon-dynamodb</module>
-        <module>azure-functions-http</module>
+        <module>amazon-sns</module>
 
         <!-- Additional languages -->
         <module>kotlin</module>

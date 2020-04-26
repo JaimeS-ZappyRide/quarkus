@@ -1,0 +1,16 @@
+---
+name: "Amazon basic utility libraries and interfaces"
+metadata:
+  keywords:
+  - "aws"
+  - "aws-utils"
+  - "aws-common"
+  - "amazon"
+  - "amazon-common"
+  - "amazon-utils"
+  - "common"
+  categories:
+  - "amazon"
+  guide: "https://quarkus.io/guides/amazon-common-base"
+  status: "preview"
+  unlisted: true
