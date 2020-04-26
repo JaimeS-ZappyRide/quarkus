@@ -69,9 +69,6 @@
 
         <!-- Misc. -->
         <module>docs</module>
-        <module>amazon-config-core</module>
-        <module>amazon-aws-conf</module>
-        <module>amazon-common-base</module>
     </modules>
 
     <repositories>
