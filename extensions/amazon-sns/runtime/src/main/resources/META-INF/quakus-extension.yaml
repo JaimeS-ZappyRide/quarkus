@@ -1,0 +1,13 @@
+name: "Amaazon - Simple Notification Client"
+metadata:
+  keywords:
+  - "sns"
+  - "aws - sns"
+  - "messaging"
+  - "cloud"
+  - "aws"
+  guide: "https://quarkus.io/guides/datasource"
+  categories:
+  - "data"
+  - "messaging"
+  status: "stable"

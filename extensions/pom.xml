@@ -129,9 +129,14 @@
         <module>amazon-lambda</module>
         <module>amazon-lambda-xray</module>
         <module>amazon-lambda-http</module>
-        <module>amazon-dynamodb</module>
         <module>amazon-alexa</module>
         <module>azure-functions-http</module>
+        
+        <!--- AWS -->
+        <module>amazon-common-base</module>
+        <module>amazon-dynamodb</module>
+        <module>amazon-sns</module>
+
 
         <!-- New Frameworks -->
         <module>funqy/funqy-server-common</module>
