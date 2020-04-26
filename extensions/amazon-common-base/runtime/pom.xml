@@ -4,7 +4,7 @@
     <parent>
         <groupId>io.quarkus</groupId>
         <artifactId>quarkus-amazon-common-base-parent</artifactId>
-        <version>999-SNAPSHOT</version>
+        <version>${quarkus.version}</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
